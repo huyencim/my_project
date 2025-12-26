@@ -7,3 +7,7 @@ alo
 # minh muon bo qua file abc.xyz nhung van giu myfile.xyz
 # se chi bo qua cac file .xyz o trong git repo
 /*.xyz
+# minh muon bo qua file abc.txt trong folder secondfolder
+# ubuntu thif su dung / la path separator
+# windows thi su dung // hoac \
+secondfolder/abc.txt
